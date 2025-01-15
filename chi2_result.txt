@@ -1,0 +1,40 @@
+Chi-square test for Rectal Pain vs Monkeypox:
+Chi-square statistic: 10.2154
+P-value: 0.0014
+Rejected
+--------------------------
+Chi-square test for Sore Throat vs Monkeypox:
+Chi-square statistic: 0.6272
+P-value: 0.4284
+Not rejected
+--------------------------
+Chi-square test for Penile Oedema vs Monkeypox:
+Chi-square statistic: 0.5700
+P-value: 0.4503
+Not rejected
+--------------------------
+Chi-square test for Oral Lesions vs Monkeypox:
+Chi-square statistic: 4.0377
+P-value: 0.0445
+Rejected
+--------------------------
+Chi-square test for Solitary Lesion vs Monkeypox:
+Chi-square statistic: 3.3682
+P-value: 0.0665
+Not rejected
+--------------------------
+Chi-square test for Swollen Tonsils vs Monkeypox:
+Chi-square statistic: 0.1859
+P-value: 0.6664
+Not rejected
+--------------------------
+Chi-square test for HIV Infection vs Monkeypox:
+Chi-square statistic: 14.1338
+P-value: 0.0002
+Rejected
+--------------------------
+Chi-square test for Sexually Transmitted Infection vs Monkeypox:
+Chi-square statistic: 4.2390
+P-value: 0.0395
+Rejected
+--------------------------
